@@ -34,13 +34,3 @@ else:
     people_dict = {x: splitted_bill for x in people_dict}
 
 print(people_dict)
-
-
-
-#
-
-
-
-
-
-
